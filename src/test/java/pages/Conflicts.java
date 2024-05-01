@@ -13,7 +13,7 @@ public class Conflicts {
     }
     @Test
     public void test2(){
-        String text = "welcome to USA - the lend of opportunity";
+        String text = "welcome to USA - the land of opportunities!!!!";
         Assert.assertTrue(text.contains("US"));
     }
 }
