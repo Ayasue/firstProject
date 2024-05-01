@@ -6,7 +6,7 @@ import org.junit.Test;
 public class Conflicts {
     @Test
     public void test1(){
-        int x = 5;
+        int x = 10;
         int y = 5;
         System.out.println("Sum" + (x+y));
     }
