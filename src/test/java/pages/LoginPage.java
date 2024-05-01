@@ -18,4 +18,7 @@ public class LoginPage {
     @FindBy(css = "input[id=login-button]")
     public WebElement loginButton;
 
+    @FindBy()
+    public WebElement somThing;
+
 }
