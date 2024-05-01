@@ -8,7 +8,8 @@ public class Conflicts {
     public void test1(){
         int x = 10;
         int y = 5;
-        System.out.println("Sum" + (x+y));
+        int sum = (x+y)*2;
+        System.out.println("Sum" + sum);
     }
     @Test
     public void test2(){
